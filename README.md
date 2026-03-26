@@ -1,5 +1,5 @@
 # 💫 About Me:
-*I am a versatile technology and creative professional 💻✨ with expertise in C++ development 💻, artificial      intelligence 🤖, strategic advertising 📢, graphic design 🎨, and the Microsoft Office Suite 📊.<br>* I possess a strong foundation in technical systems 🖥️ and a deep passion for innovation 🚀.<br>* I deliver impactful solutions 💡 that drive business growth 📈 and enhance brand success 🌟.<br>* I am dedicated to excellence 🏆 in every project and collaboration I undertake.
+Hi there! 👋 I am a versatile technology and creative professional 💻✨<br><br>* Building in: C++ & Technical Systems <br><br>* Exploring: Artificial Intelligence<br><br> * Creative: Graphic Design & Strategic Advertising <br><br> * Tools: Microsoft Office Suite Expert<br><br>* Mission: Driven by a deep passion for innovation!
 
 
 ## 🌐 Socials:
@@ -11,5 +11,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=mian-ali1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mian-ali1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mian-ali1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mian-ali1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mian-ali1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
